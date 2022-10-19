@@ -71,7 +71,8 @@ En esta última etapa del desarrollo del laboratorio se programó un script en p
 El archivo lab4.py se encuentra adjunto en el repositorio y en el siguiente video se evidencia el funcionamiento de lo anteriormente mencionado.
 
 
-VIDEO.
+[![Alt text](https://img.youtube.com/vi/zY-KhiHjcX4/0.jpg)](https://www.youtube.com/watch?v=zY-KhiHjcX4)
+
 
 ***
 ### Conclusiones:
