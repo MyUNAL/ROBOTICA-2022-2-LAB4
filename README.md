@@ -12,12 +12,15 @@ Se  tomaron las medidas de los 4 eslabones y se obtenieron los siguientes datos:
         L3 = 104.6mm
         L4 = 91mm
  ![IMG_MEDICION](IMG/diagrama.png)
+ 
 Cabe hacer la anotación de que el diagrama que está presente en la guía de laboratotorio difiere del recién presentado, dado que el primero, representa las dos primeras articulaciones como una sola, omitiendo un eslabón.
 
 ***
 ### Análisis:
 En esta sección realizamos el análisis de Denavit Hartenberg (DHstd), obteniendo una representación para los sistemas coordenados de para cada articulación como se muestra en la siguiente imágen:
+
  ![IMG_MEDICION](IMG/DH.png)
+ 
  Y luego hallamos los parámetros del DHstd:
 
     Theta_i : q1, q2, q3, q4
